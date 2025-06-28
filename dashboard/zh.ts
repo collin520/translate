@@ -204,7 +204,7 @@ export default {
       "gift": "礼物",
       "security": "安全",
       "access": "访问权限",
-      "business": "商户",
+      "business": "公司档案",
       "wallet": "钱包",
       "identification": "身份认证(KYC)",
       "stores": "店铺",
@@ -2973,19 +2973,19 @@ export default {
     }
   },
   "companies": {
-    "title": "我的企业帐户",
+    "title": "我的企业",
     "message": "企业、创业者和专业团队可以基于 Selldone 平台开发产品和应用程序。创建企业档案是必需的。",
-    "new_company": "新建公司"
+    "new_company": "新建企业"
   },
   "add_company": {
-    "name_input": "公司名称",
+    "name_input": "企业名称",
     "website_input": "网站",
     "email_input": "电子邮件",
     "address_input": "地址",
     "tel_input": "电话",
     "mobile_input": "手机号码",
     "edit_action": "编辑公司",
-    "create_action": "创建公司",
+    "create_action": "创建企业",
     "notifications": {
       "add_success": "已创建企业帐户 {name}。",
       "edit_success": "企业帐户已编辑。"
