@@ -45,7 +45,7 @@ export default {
   "Reddit": "Reddit论坛",
   "Github": "Github",
   "page_titles": {
-    "home": "卖完 |快速成长公司的业务操作系统",
+    "home": "Selldone |快速成长公司的业务操作系统",
     "login": "登录",
     "register": "注册",
     "auth_2fa": "双因素认证🔐",
@@ -166,7 +166,7 @@ export default {
       "Order": "订单",
       "Channel": "销售渠道",
       "Accounting": "会计和付款方式",
-      "Incentives": "激励措施",
+      "Incentives": "促销活动",
       "Marketing": "营销与活动",
       "Logistic": "物流与运输",
       "Customers": "客户俱乐部和细分",
@@ -200,7 +200,7 @@ export default {
     "subtitle": "使用最新信息和清晰的前景管理您的业务。",
     "menu": {
       "affiliate": "推广联盟",
-      "monetize": "变现",
+      "monetize": "推广赚钱",
       "gift": "礼物",
       "security": "安全",
       "access": "访问权限",
@@ -279,7 +279,7 @@ export default {
       "customers": "顾客",
       "logistic": "物流",
       "auditing": "财务",
-      "incentives": "激励措施",
+      "incentives": "促销活动",
       "process_center": "订单",
       "blog": "博客",
       "products": "产品",
@@ -2893,7 +2893,7 @@ export default {
     }
   },
   "user_monetize_plans": {
-    "title": "合作和变现",
+    "title": "推广和变现",
     "sub_title": "您将获得的推广奖励将被记入您的 Selldone 钱包，这些资金可用于支付 Selldone 的服务费用（所有人可用）。请注意，只有 Selldone 的 VIP 商业合作伙伴才能将这些推广奖励提现，其他用户暂无提现权限。",
     "discount": "折扣",
     "your_income": "你的收入",
@@ -7160,7 +7160,7 @@ export default {
     }
   },
   "page_monetize": {
-    "title": "变现",
+    "title": "推广赚钱",
     "subtitle": "拓展商业机会。"
   },
   "sms_template_mode": {
